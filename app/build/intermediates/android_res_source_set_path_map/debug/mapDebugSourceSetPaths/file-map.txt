@@ -1,0 +1,7 @@
+com.example.myfirstapp-pngs-0 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\build\generated\res\pngs\debug
+com.example.myfirstapp-updated_navigation_xml-1 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\build\generated\updated_navigation_xml\debug
+com.example.myfirstapp-packageDebugResources-2 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myfirstapp-packageDebugResources-3 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myfirstapp-debug-4 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myfirstapp-debug-5 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\src\debug\res
+com.example.myfirstapp-main-6 C:\Users\punit\AndroidStudioProjects\MyFirstApp\app\src\main\res
